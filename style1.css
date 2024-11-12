@@ -1,0 +1,51 @@
+.main-title::first-line {
+    color: red;
+    }
+    .nav-list li:first-child:hover a {
+         color: green;
+    }
+    .nav-list li:nth-child(2):hover a {
+         color: #0000ff;
+    }
+    .nav-list li:last-child:hover a {
+         color: yellow;
+    }
+    
+    
+    .content :first-child:hover p{
+         color: orange;
+    }
+    .content :last-child:hover p{
+         color: purple;
+    }
+    
+    .post:last-child h2{
+         color: purple;
+    }
+    .post:first-child h2{
+         color: orange;
+    }
+    
+    .widget:first-child h3 {
+         color: pink;
+    }
+    .widget:last-child h3 {
+         color: #9b2d30;
+    }
+    .color-list li:first-child{
+         color: grey;
+    }
+    .color-list li:nth-child(2){
+         color: #964b00;
+    }
+    
+    
+    .note:hover {
+         color:#9b2d30 ;
+    }
+    
+    
+    .submit-btn:hover {
+         color: red;
+         background-color: black;
+    }

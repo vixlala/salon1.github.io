@@ -1,1 +1,1 @@
-# salon1.github.io
+# salon.github.io
